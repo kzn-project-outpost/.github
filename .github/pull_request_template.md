@@ -3,7 +3,7 @@
 
 
 ## Type of Change
-<!-- Mark the relevant option with an "x" -->
+<!-- Mark the relevant option with an "x" in between the brackets (e.g. [ ] to [x]) -->
 
 - [ ] Bug fix (non-breaking change that fixes an issue)
 - [ ] New feature (non-breaking change that adds functionality)
@@ -13,7 +13,7 @@
 - [ ] Code refactoring
 
 ## Testing
-<!-- Describe the tests you ran to verify your changes -->
+<!-- Describe the tests you ran to verify your changes, and mark them with an "x" (e.g. [ ] to [x]) -->
 
 - [ ] I have tested these changes locally
 - [ ] All existing tests pass
@@ -21,7 +21,8 @@
 
 ## Related Issues
 <!-- Link any related issues, e.g., Closes KZN-228 -->
-
+None
 
 ## Additional Notes
 <!-- Any additional information that reviewers should know -->
+None
